@@ -1,0 +1,105 @@
+.football{
+    background: rgb(24, 13, 216);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    margin: 0%;
+
+}
+.ballon-football{
+   height: 50px;
+   width: 50px;
+   
+}
+.histoire{
+    
+    background-image: url("https://img.lemde.fr/2022/12/18/0/0/5388/3592/1440/960/60/0/dfff460_5040162-01-06.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 32px;
+}
+.f{
+    color: aliceblue;
+}  
+.liste{
+    display: flex;
+    gap: 20PX;
+}
+.class{
+    display: flex;
+    margin: 0%;
+}
+.footer{
+    background-color: blue;
+    text-align: center;
+}
+.actu{
+    background-color: rgb(13, 145, 227);
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+    
+}
+.actutu{
+    margin: 0%;
+    gap: 20px;
+   
+}
+.po{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.c{
+    border-radius: 50px;
+width: 300px;   
+height: 200px;
+}
+.b{
+    border-radius: 50px;
+    width: 300px;   
+height: 200px;
+}
+.a{
+    border-radius: 50px;
+    width: 300px;   
+height: 200px;
+}
+.d{
+    border-radius: 50px;
+    width: 300px;   
+    height: 200px;
+}
+.coupes{
+    display: flex;
+    gap: 10PX;
+}
+.FIFA{
+   background-color: black;
+   width: 80px;
+   height: 30px;
+   border: radius 100px;
+}
+.les-avis{
+    width:  500px;
+    height: 500px;
+    display: flex;
+    gap: 10PX;
+.avis1{
+    width: 200px;
+    height: 200px;
+}
+.avis2{
+    width: 200px;
+    height: 200px;
+}
+.avis3{
+    width: 200px;
+    height: 200px;
+}
+.avis4{
+    width: 200px;
+    height: 200px
+}
